@@ -2,7 +2,6 @@
 
 const userRouter = require('./routes/user.route');
 const expenseRouter = require('./routes/expense.route');
-
 const express = require('express');
 const cors = require('cors');
 

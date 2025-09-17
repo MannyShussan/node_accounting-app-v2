@@ -46,4 +46,8 @@ module.exports = {
 
     users = newUsers;
   },
+
+  reset: () => {
+    users = [];
+  },
 };
